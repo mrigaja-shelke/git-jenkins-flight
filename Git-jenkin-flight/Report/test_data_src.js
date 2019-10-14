@@ -1,0 +1,1 @@
+﻿var __testDataSource={items:[{dataFilePath:'Default.xls',dataFileFormat:'excel',dataFileFolder:'C:\\GIT\\with-jenkin\\Git-jenkin-flight\\Res5',namePairs:[]}]};

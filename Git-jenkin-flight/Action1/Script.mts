@@ -25,3 +25,4 @@ End If
 End Function
 
 Call login("john","HP")
+WpfWindow("Micro Focus MyFlight Sample").Close
