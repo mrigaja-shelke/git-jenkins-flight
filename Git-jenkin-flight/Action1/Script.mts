@@ -20,7 +20,7 @@ button_status = WpfWindow("Micro Focus MyFlight Sample").WpfButton("OK").GetROPr
 			'LogIn="Login unsuccessfull"
 		
 End If
-msgbox login
+'msgbox login
 
 End Function
 
